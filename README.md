@@ -15,3 +15,9 @@ They have wifi on board and can be programmed with the Arduino enviroment.
 
 I used Arduino 1.65 & ESP Board Package 2.0.0, but newer versions might work too.
 
+You will need the following libraries:
+ESP8266WiFi.h
+ESP8266HTTPClient.h
+Base64.h
+elapsedMillis.h
+
